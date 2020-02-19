@@ -70,7 +70,7 @@ These packages consist of a large number of classes which are a part of Java API
 These are the packages that are defined by the user. First we create a directory myPackage (name should be same as the name of the package). Then create the MyClass inside the directory with the first statement being the package names.
 
 ## Advantages of Java Package
-* Java package is used to categorize the classes and interfaces so that they can be easily maintained.
+* Java package is used to categorize the classes & interfaces so that they can be easily maintained.
 
 * Java package provides access protection.
 
